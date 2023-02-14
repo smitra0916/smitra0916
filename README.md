@@ -1,6 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/89326604/218838234-e78017b1-d655-499c-9936-4274d7232b38.png)]()
 <img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/89326604/218840827-2f4bd93f-ff54-4f68-9535-cc254c557fe4.gif">
-<h1 align="center">Hey there👋, This is Sourasish Mitra</h1>
+<h1 align="center">Hey there👋,</h1>
+<h1 align="center">This is Sourasish Mitra</h1>
 <h3 align="center">MERN stack frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitra1609&label=Profile%20views&color=0e75b6&style=flat" alt="smitra1609" /> </p>
