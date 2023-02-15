@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitra1609&label=Profile%20views&color=0e75b6&style=flat" alt="smitra1609" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitra1609" alt="smitra1609" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=smitra1609&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 - 💬 Ask me about **MERN stack**
 
@@ -42,8 +42,6 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a></td></tr></table>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitra1609&show_icons=true&locale=en&layout=compact" alt="smitra1609" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitra1609&show_icons=true&locale=en" alt="smitra1609" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitra1609&" alt="smitra1609" /></p>
+![](https://github-readme-stats.vercel.app/api?username=smitra1609&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=smitra1609&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smitra1609&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
