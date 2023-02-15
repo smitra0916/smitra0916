@@ -15,12 +15,13 @@
 
 - ⚡ Interests **Gym, Fitness, Esports**
 
-<table><tr><td><h3 align="left">Connect with me:</h3>
+<table><tr><td>
+<!--  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sourasish16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourasish16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sourasishmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourasishmitra" height="30" width="40" /></a>
 <a href="https://instagram.com/sourasish_mvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourasish_mvp" height="30" width="40" /></a>
-<a href="https://discord.gg/#0387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0387" height="30" width="40" /></a>
+<a href="https://discord.gg/#0387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0387" height="30" width="40" /></a> -->
 <h3 align="left">Coding Profiles:</h3>
 <a href="https://www.codechef.com/users/smitra0916" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smitra0916" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/smitra0916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="smitra0916" height="30" width="40" /></a>
