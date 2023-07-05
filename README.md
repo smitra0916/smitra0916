@@ -22,9 +22,6 @@
 - 💬 Ask me about **Cpp, HTML and CSS**
 - ⚡ Interests **Gym, Fitness, Esports**
 
-![](https://github-readme-stats.vercel.app/api?username=smitra1609&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=smitra1609&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smitra1609&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <h3 align="center">Coding Profiles:</h3>
 <p align="center"><a href="https://www.codechef.com/users/smitra0916" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smitra0916" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/smitra0916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="smitra0916" height="30" width="40" /></a>
