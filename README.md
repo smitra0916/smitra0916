@@ -14,8 +14,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=smitra1609&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89326604/218840827-2f4bd93f-ff54-4f68-9535-cc254c557fe4.gif">
-- 💬 Ask me about **MERN stack**
-
+- 💬 **MERN stack**
 - 📫 How to reach me **mitrasourasish@gmail.com**
 - 🌱 I’m currently learning **React and DSA**
 - 👯 I’m looking to collaborate on **Web Projects**
@@ -34,8 +33,8 @@
 <p align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
 <h3 align="center">Database:</h3>
 <p align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
-<h3 align="center">Static Site Generators:</h3>
-<p align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a></p>
+<!-- <h3 align="center">Static Site Generators:</h3>
+<p align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a></p> -->
 <h3 align="center">Software:</h3>
 <p align="center"><a href="https://snapseed.online/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.canva.com/en_in/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY" alt="nextjs" width="40" height="40"/> </a></p>
 <h3 align="center">Other:</h3>
