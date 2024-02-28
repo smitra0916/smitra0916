@@ -14,11 +14,11 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=smitra1609&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89326604/218840827-2f4bd93f-ff54-4f68-9535-cc254c557fe4.gif">
-- 💬 **MERN stack**
+- 💬 **AI ML & IoT**
 - 📫 How to reach me **mitrasourasish@gmail.com**
-- 🌱 I’m currently learning **React and DSA**
-- 👯 I’m looking to collaborate on **Web Projects**
-- 💬 Ask me about **Cpp, HTML and CSS**
+- 🌱 Currently learning **AI ML**
+- 👯 Looking to collaborate on **Projects**
+- 💬 Ask me about **Machine Learning**
 - ⚡ Interests **Gym, Fitness, Esports**
 
 <!-- <h3 align="center">Coding Profiles:</h3>
