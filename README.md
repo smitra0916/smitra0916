@@ -1,45 +1,236 @@
-<div align="center">
- <img src="https://user-images.githubusercontent.com/89326604/219388250-3f4eb01c-8f39-46b4-b5c5-2141f4c927a8.gif" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<div align="justify">
+
+<a href="https://www.instagram.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@rzashakeri">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rezshakeri/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/barnamenevisiadmin/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/rzashakeri">
+<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
+
 </div>
+<p></p>
+<p align="justify">
+welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
 
-[![MasterHead](https://user-images.githubusercontent.com/89326604/219388954-0e8757df-4c35-4ae0-a1bf-44c55d454330.gif)]()
- <!-- <h1 align="center">Hey there👋,</h1>
-<h1 align="center">This is Sourasish Mitra</h1> -->
-<h3 align="center">Hey it's me Sourasish Mitra,</h3>
-<h3 align="center">I have a keen interest in Full Stack Web Development, OpenSource, Programming. System design, and feasibility study.</h3>
-<!-- <h3 align="center">I am hungry to be a part of growing Organisation, that providesa challenging environment and faster learning.</h3> -->
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitra1609&label=Profile%20views&color=0e75b6&style=flat" alt="smitra1609" /> </p>
-<!-- <p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FViveksati51431212%2Fhit-counter" /> </p> -->
+## My favorite tools and technologies ⚙️
 
-![](https://github-profile-trophy.vercel.app/?username=smitra1609&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89326604/218840827-2f4bd93f-ff54-4f68-9535-cc254c557fe4.gif">
-- 💬 **AI ML & IoT**
-- 📫 How to reach me **mitrasourasish@gmail.com**
-- 🌱 Currently learning **AI ML**
-- 👯 Looking to collaborate on **Projects**
-- 💬 Ask me about **Machine Learning**
-- ⚡ Interests **Gym, Fitness, Esports**
+> Tools and technologies that I have worked with and am interested in
 
-<!-- <h3 align="center">Coding Profiles:</h3>
-<p align="center"><a href="https://www.codechef.com/users/smitra0916" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smitra0916" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/smitra0916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="smitra0916" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/smitra0916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smitra0916" height="30" width="40" /></a></p>
-<h3 align="center">Programming Languages:</h3>
-<p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
-<h3 align="center">Frontend Development:</h3>
-<p align="center"></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
- <h3 align="center">Backend Development:</h3>
-<p align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
-<h3 align="center">Database:</h3>
-<p align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
-<!-- <h3 align="center">Static Site Generators:</h3>
-<p align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a></p> -->
-<!-- <h3 align="center">Software:</h3>
-<p align="center"><a href="https://snapseed.online/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.canva.com/en_in/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY" alt="nextjs" width="40" height="40"/> </a></p>
-<h3 align="center">Other:</h3>
-<p align="center"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+      <br>sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+      <br>Docusaurus
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
+
+## Github stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=smitra1609&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="smitra1609" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=smitra1609&theme=dark&hide_border=false" alt="smitra1609" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitra1609&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="smitra1609" /> -->
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://wakatime.com/share/@rzashakeri/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <br/>
+  <br/>
+  <br/>
+
+  <img src="https://wakatime.com/share/@rzashakeri/b43da924-55df-4315-897d-e4dd9fb798f9.png">
+</details>
+
+
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/rzashakeri/Lorem-Farsi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/rzashakeri/Happier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/rzashakeri/telegram-bot-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
+ </a>
+
+
+   <br/>
+  <br/>
+ 
+   <a href="https://github.com/rzashakeri/personal-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
+ </a>
+ 
+</details>
+
+## Recent GitHub Activity ✅
+
+![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
